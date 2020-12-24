@@ -1,8 +1,11 @@
-function foo() {
-  const a = 10 + 10;
-  const b = function foo() {
-    return a;
-  };
+let x = 1;
+for (let i = 0; i < 6; i++) {
+  x += i;
 }
+console.log(x);
 
-console.log(typeof foo());
+// Варианты ответов
+// 1 - 5;
+// 2 - 16;
+// 3 - 6;
+// 4 - 15;

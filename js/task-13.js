@@ -1,6 +1,12 @@
 var x = NaN;
 if (NaN) {
-  alert(x);
+  console.log(x);
 } else {
-  alert(!x);
+  console.log(!x);
 }
+
+// Варианты ответов
+// 1 - NaN;
+// 2 - true;
+// 3 - false;
+// 4 - error;
