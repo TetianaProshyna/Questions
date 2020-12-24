@@ -1,3 +1,4 @@
+// Что выведет консоль?
 let i = 10;
 function f(f) {
   console.log(f + 'f');

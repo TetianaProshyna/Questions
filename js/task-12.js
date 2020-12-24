@@ -1,3 +1,4 @@
+// Что выведет консоль?
 let x = 'y';
 let y = 'x';
 console.log(x + y);

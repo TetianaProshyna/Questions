@@ -1,3 +1,4 @@
+// Что выведет консоль?
 var x = NaN;
 if (NaN) {
   console.log(x);
